@@ -21,8 +21,8 @@ I'd rather show what I'm currently learning than overstate what I already know.
 | Project | Description |
 | --- | --- |
 | **DDPM-based Data Augmentation** | Using diffusion models to generate synthetic training data - [repo](#)|
-| **Multimodal Emotion Recognition** | Combining text and image modalities for emotion classification - [repo](#) |
-| **Paper-reviews** | My reading notes on DDPM, RePaint, Deep RL, and more - with my own takeaways - [repo](#) |
+| **Multimodal Emotion Recognition** | Combining text and image modalities for emotion classification - [repo](https://github.com/WinLose02/GP) |
+| **Paper-reviews** | My reading notes on DDPM, RePaint, Deep RL, and more - with my own takeaways - [repo](https://github.com/WinLose02/paper-reviews) |
 
 ## Contact
 - Email: wdtt020202@naver.com
