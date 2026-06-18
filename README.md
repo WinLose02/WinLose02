@@ -20,23 +20,13 @@ I'd rather show what I'm currently learning than overstate what I already know.
 ## Featured Work
 | Project | Description |
 | --- | --- |
-| **DDPM-based Data Augmentation** | Using diffusion models to generate synthetic training data - [repo](#)|
+| **DDPM-based Data Augmentation** | Using diffusion models to generate synthetic training data - [repo](https://github.com/WinLose02/Crusher-Project)|
 | **Multimodal Emotion Recognition** | Combining text and image modalities for emotion classification - [repo](https://github.com/WinLose02/GP) |
 | **Paper-reviews** | My reading notes on DDPM, RePaint, Deep RL, and more - with my own takeaways - [repo](https://github.com/WinLose02/paper-reviews) |
 
 ## Contact
 - Email: wdtt020202@naver.com
 - [CV](#)
-
-<!--
-**WinLose02/WinLose02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
