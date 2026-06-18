@@ -22,7 +22,7 @@ I'd rather show what I'm currently learning than overstate what I already know.
 | --- | --- |
 | **DDPM-based Data Augmentation** | Using diffusion models to generate synthetic training data - [repo](https://github.com/WinLose02/Crusher-Project)|
 | **Multimodal Emotion Recognition** | Combining text and image modalities for emotion classification - [repo](https://github.com/WinLose02/GP) |
-| **Paper-reviews** | My reading notes on DDPM, RePaint, Deep RL, and more - with my own takeaways - [repo](https://github.com/WinLose02/paper-notes) |
+| **Paper-reviews** | My reading notes on DDPM, RePaint, Deep RL, and more - with my own takeaways - [repo](https://github.com/WinLose02/Paper-notes) |
 
 ## Contact
 - Email: wdtt020202@naver.com
